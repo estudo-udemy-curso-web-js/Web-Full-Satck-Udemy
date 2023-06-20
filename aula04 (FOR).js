@@ -12,7 +12,7 @@ console.log('Finalização:', soma)
 /*
 A declaração for começa declarando a variável i e inicializando-a como 0.
 Ela verifica se i é menor que quantidade, executa as duas instruções subsequentes e
-incrementa 1 a variável i após cada passagem pelo loop..
+incrementa 1 a variável i após cada passagem pelo loop.
 
 For necessariamente precisa de 3 coisas simples:
 
