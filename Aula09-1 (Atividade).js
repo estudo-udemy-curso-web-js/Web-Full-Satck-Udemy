@@ -12,4 +12,3 @@ function calcularLitrosViagem(tempo, velocidadeMedia) {
   const litrosGastos = calcularLitrosViagem(tempoViagem, velocidadeMedia);
   
   console.log('O total gasto de Litros foi: ', litrosGastos);
-  
